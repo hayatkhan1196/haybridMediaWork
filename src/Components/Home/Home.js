@@ -26,7 +26,6 @@ const QuestionBox = styled.div`
 `;
 const Input = styled.input`
   flex: 2;
-  width: 15rem;
   padding: 1rem;
   border-radius: 3px;
   width: 65%;
